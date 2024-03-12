@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simmi Ganduly</h1>
+<h1 align="center">Hi 👋, I'm Jot Gurasis Singh</h1>
 <h3 align="center">A passionate frontend developer and a native android app developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushes02&label=Profile%20views&color=0e75b6&style=flat" alt="rushes02" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React & flutter**
 
-- 📫 How to reach me **abhijaanganguly02@gmail.com**
+- 📫 How to reach me **21bcaa29@kristujayanti.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
